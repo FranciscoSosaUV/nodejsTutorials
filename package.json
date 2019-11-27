@@ -1,0 +1,28 @@
+{
+  "name": "nodejstutorials",
+  "version": "1.0.0",
+  "description": "nodetutorialsbyfranciscososa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranciscoSosaUV/nodejsTutorials.git"
+  },
+  "keywords": [
+    "node",
+    "tutorial",
+    "first"
+  ],
+  "author": "Francisco Sosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranciscoSosaUV/nodejsTutorials/issues"
+  },
+  "homepage": "https://github.com/FranciscoSosaUV/nodejsTutorials#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
